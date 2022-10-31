@@ -4,4 +4,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-pedro-santos-946121100/)](https://www.linkedin.com/in/joão-pedro-santos-946121100/)
 
 ### About me
-I'm a analyst test Automation.
+I'm QA Engineer
